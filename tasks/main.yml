@@ -1,0 +1,5 @@
+---
+
+- name: Stub
+  debug:
+    msg: This is just a stub.
